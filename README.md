@@ -1,6 +1,16 @@
 ## Olá, me chamo Vinicius. Tudo bem?
 ## Sou estudando de Engenharia da Computação e estou aberto ao mercado para me especializar cada dia mais.
 ## Amo tecnologias e desenvolvimento
+
+## 👯 Fico na espera pelo seu contato para que possamos codar juntos.
+
+## 🤔 Procuro evoluir profissionalmente. Estou em busca de novas experiências(estágios).
+
+## 💬 Estou em busca de me encontrar mais na área de desenvolvimento. São muitas opções de estudo e tenho medo de acabar perdido.
+
+## 📫 Pode falar comigo atráves do meu email pessoal: vinicius-edermanmc@hotmail.com ou pelo proprio linkedin, o link deve está logo abaixo.
+
+
 <div align="center">
 <a href="https://github.com/ViniciusEderman">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusEderman&show_icons=true&theme=radical"/>
