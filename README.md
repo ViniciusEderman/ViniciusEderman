@@ -15,16 +15,16 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusEderman&layout=compact&langs_count=7&theme=react&hide_border=true"/>
     <br/>
     <br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusEderman&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
-</div>
-  
-  <br/>
-  
-<p align="center">
+    <p align="center">
     <a href="https://github.com/ViniciusEderman">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vinicius Ederman" src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusEderman&theme=react&hide_border=true"/>
     </a>
 </p>
+  
+  <br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusEderman&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
+</div>
+
 
   <br/>
   
