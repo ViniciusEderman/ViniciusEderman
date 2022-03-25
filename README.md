@@ -10,13 +10,18 @@
 
 ## 📫 Pode falar comigo atráves do meu email pessoal: vinicius-edermanmc@hotmail.com ou pelo proprio linkedin, o link deve está logo abaixo.
 
-
 <div align="center">
-<a href="https://github.com/ViniciusEderman">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusEderman&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusEderman&show_icons=true&theme=radical"/>
- </div>
+  <a href="https://github.com/ViniciusEderman">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusEderman&layout=compact&langs_count=7&theme=react&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusEderman&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
+</div>
+    
+<p align="center">
+    <a href="https://github.com/ViniciusEderman">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ViniciusEderman" src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusEderman&theme=react&hide_border=true"/>
+    </a>
   
+  ### 🥇 Habilidades nas seguintes tecnologias:
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
