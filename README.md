@@ -17,7 +17,7 @@
     <br/>
     <p align="center">
     <a href="https://github.com/ViniciusEderman">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vinicius Ederman" src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusEderman&theme=react&hide_border=true"/ style="margin-bottom:-6px;">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vinicius Ederman" style="margin-bottom:-6px;" src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusEderman&theme=react&hide_border=true"/>
     </a>
 </p>
   
