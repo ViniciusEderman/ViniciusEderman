@@ -26,8 +26,6 @@
     </a>
 </p>
   
- 
-  <br/>
   
   ### 🥇 Habilidades nas seguintes tecnologias:
   <div style="display: inline_block"><br>
