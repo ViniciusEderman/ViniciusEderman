@@ -1,6 +1,6 @@
 ## Pt-br:
 ## 🤞  Olá, me chamo Vinicius. Tudo bem?
-## Sou estudando de Engenharia da Computação e estou aberto ao mercado para me especializar cada dia mais.
+## 🖥️ Sou estudando de Engenharia da Computação e estou aberto ao mercado para me especializar cada dia mais.
 ## ❤️ Amo tecnologias e desenvolvimento
 ## 👯 Fico na espera pelo seu contato para que possamos codar juntos.
 ## 🤓 Procuro evoluir profissionalmente. Estou em busca de novas experiências(estágios).
