@@ -14,7 +14,7 @@
 ## 🤓 I seek to evolve professionally. I am looking for new experiences.
 ## 📫 You can talk to me through my personal email: vinicius-edermanmc@hotmail.com or through linkedin itself, the link should be below.
 
-<br>
+<div>
 <div align="center">
   <a href="https://github.com/ViniciusEderman">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusEderman&layout=compact&langs_count=7&theme=react&hide_border=true"/>
