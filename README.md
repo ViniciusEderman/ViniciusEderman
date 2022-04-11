@@ -4,12 +4,15 @@
 ## ❤️ Amo tecnologias e programação.
 ## 👯 Fico na espera pelo seu contato para que possamos codar juntos.
 ## 🤓 Procuro evoluir profissionalmente. Estou em busca de novas experiências(estágios).
-## 💬 Estou em busca de me encontrar mais na área de desenvolvimento. São muitas opções de estudo e tenho medo de acabar perdido.
 ## 📫 Pode falar comigo atráves do meu email pessoal: vinicius-edermanmc@hotmail.com ou pelo proprio linkedin, o link deve está logo abaixo.
 
 ## En-Us:
 ## 🤞  Hello, my name is Vinicius. Are you ok?
 ## 🖥️ I am a computer engineering student and I am open to the market to specialize more every day.
+## ❤️ I love technologies and programming.
+## 👯 I look forward to hearing from you so we can code together.
+## 🤓 I seek to evolve professionally. I am looking for new experiences.
+## 📫 You can talk to me through my personal email: vinicius-edermanmc@hotmail.com or through linkedin itself, the link should be below.
 
 <div align="center">
   <a href="https://github.com/ViniciusEderman">
