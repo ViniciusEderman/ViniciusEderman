@@ -1,9 +1,9 @@
 ## Pt-br:
-## Olá, me chamo Vinicius. Tudo bem?
+## 🤞  Olá, me chamo Vinicius. Tudo bem?
 ## Sou estudando de Engenharia da Computação e estou aberto ao mercado para me especializar cada dia mais.
-## Amo tecnologias e desenvolvimento
+## ❤️ Amo tecnologias e desenvolvimento
 ## 👯 Fico na espera pelo seu contato para que possamos codar juntos.
-## 🤔 Procuro evoluir profissionalmente. Estou em busca de novas experiências(estágios).
+## 🤓 Procuro evoluir profissionalmente. Estou em busca de novas experiências(estágios).
 ## 💬 Estou em busca de me encontrar mais na área de desenvolvimento. São muitas opções de estudo e tenho medo de acabar perdido.
 ## 📫 Pode falar comigo atráves do meu email pessoal: vinicius-edermanmc@hotmail.com ou pelo proprio linkedin, o link deve está logo abaixo.
 
