@@ -1,11 +1,15 @@
 ## Pt-br:
 ## 🤞  Olá, me chamo Vinicius. Tudo bem?
 ## 🖥️ Sou estudando de Engenharia da Computação e estou aberto ao mercado para me especializar cada dia mais.
-## ❤️ Amo tecnologias e desenvolvimento
+## ❤️ Amo tecnologias e programação.
 ## 👯 Fico na espera pelo seu contato para que possamos codar juntos.
 ## 🤓 Procuro evoluir profissionalmente. Estou em busca de novas experiências(estágios).
 ## 💬 Estou em busca de me encontrar mais na área de desenvolvimento. São muitas opções de estudo e tenho medo de acabar perdido.
 ## 📫 Pode falar comigo atráves do meu email pessoal: vinicius-edermanmc@hotmail.com ou pelo proprio linkedin, o link deve está logo abaixo.
+
+## En-Us:
+## 🤞  Hello, my name is Vinicius. Are you ok?
+## 🖥️ I am a computer engineering student and I am open to the market to specialize more every day.
 
 <div align="center">
   <a href="https://github.com/ViniciusEderman">
@@ -30,8 +34,6 @@
   <img align="center"  width="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 
   </div>
-  
-  ##
    
 <div>
  <a href="https://www.instagram.com/vinicius.ederman/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
