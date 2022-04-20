@@ -1,17 +1,15 @@
 ## Pt-br:
 ## 🤞  Olá, me chamo Vinicius. Tudo bem?
-## 🖥️ Sou estudando de Engenharia da Computação e estou aberto ao mercado para me especializar cada dia mais.
+## 🖥️ Sou estudando de Engenharia da Computação.
 ## ❤️ Amo tecnologias e programação.
-## 👯 Fico na espera pelo seu contato para que possamos codar juntos.
-## 🤓 Procuro evoluir profissionalmente. Estou em busca de novas experiências(estágios).
+## 🤓 Procuro evoluir profissionalmente.
 ## 📫 Pode falar comigo atráves do meu email pessoal: vinicius-edermanmc@hotmail.com ou pelo proprio linkedin, o link deve está logo abaixo.
 
 ## En-Us:
 ## 🤞  Hello, my name is Vinicius. Are you ok?
-## 🖥️ I am a computer engineering student and I am open to the market to specialize more every day.
+## 🖥️ I am a computer engineering student.
 ## ❤️ I love technologies and programming.
-## 👯 I look forward to hearing from you so we can code together.
-## 🤓 I seek to evolve professionally. I am looking for new experiences.
+## 🤓 I seek to evolve professionally.
 ## 📫 You can talk to me through my personal email: vinicius-edermanmc@hotmail.com or through linkedin itself, the link should be below.
 
 
