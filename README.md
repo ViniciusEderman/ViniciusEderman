@@ -1,17 +1,26 @@
 ## Pt-br:
-## 🤞  Olá, me chamo Vinicius. Tudo bem?
+
+## 🤞 Olá, me chamo Vinicius. Tudo bem?
+
 ## 🖥️ Sou estudando de Engenharia da Computação.
+
 ## ❤️ Amo tecnologias e programação.
+
 ## 🤓 Procuro evoluir profissionalmente.
+
 ## 📫 Pode falar comigo atráves do meu email pessoal: vinicius-edermanmc@hotmail.com ou pelo proprio linkedin, o link deve está logo abaixo.
 
 ## En-Us:
-## 🤞  Hello, my name is Vinicius. Are you ok?
-## 🖥️ I am a computer engineering student.
-## ❤️ I love technologies and programming.
-## 🤓 I seek to evolve professionally.
-## 📫 You can talk to me through my personal email: vinicius-edermanmc@hotmail.com or through linkedin itself, the link should be below.
 
+## 🤞 Hello, my name is Vinicius. Are you ok?
+
+## 🖥️ I am a computer engineering student.
+
+## ❤️ I love technologies and programming.
+
+## 🤓 I seek to evolve professionally.
+
+## 📫 You can talk to me through my personal email: vinicius-edermanmc@hotmail.com or through linkedin itself, the link should be below.
 
 <div align="center">
   <a href="https://github.com/ViniciusEderman">
@@ -48,4 +57,3 @@
  ![Snake animation](https://github.com/ViniciusEderman/ViniciusEderman/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-   
