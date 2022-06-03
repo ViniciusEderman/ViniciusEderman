@@ -46,7 +46,7 @@
     <img align="center"  width="35em" src="https://camo.githubusercontent.com/9ebde7ca22ab3f3b4bf92d2743804ab9e581e413a16cdf3626c2092e69967d80/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d6f726967696e616c2e737667">
       <br>
       <br>
-    <img align="center" alt="pic" height="100" src="https://c.tenor.com/R8ApZziQLWwAAAAC/hachiman-oregairu.gif">
+    <img align="center" alt="pic" height="100" style="border-radius:45px;" src="https://c.tenor.com/R8ApZziQLWwAAAAC/hachiman-oregairu.gif">
       <br>
   </div>
   <br>   
