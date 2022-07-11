@@ -6,7 +6,7 @@
 
 ## ❤️ Amo tecnologias e programação.
 
-## 🧑🏻‍💻 Procuro evoluir profissionalmente.
+## 🧑🏻 Procuro evoluir profissionalmente.
 
 ## 📫 Pode falar comigo atráves do meu email pessoal: vinicius-edermanmc@hotmail.com ou pelo proprio linkedin, o link deve está logo abaixo.
 
@@ -18,7 +18,7 @@
 
 ## ❤️ I love technologies and programming.
 
-## 🧑🏻‍💻 I seek to evolve professionally.
+## 🧑🏻 I seek to evolve professionally.
 
 ## 📫 You can talk to me through my personal email: vinicius-edermanmc@hotmail.com or through linkedin itself, the link should be below.
 
