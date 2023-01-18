@@ -26,12 +26,7 @@
   <a href="https://github.com/ViniciusEderman">
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vinicius Ederman" src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusEderman&theme=react&hide_border=true"/>
     <br/>
-    <br/>
-    <p align="center">
-      <a href="https://github.com/ViniciusEderman">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusEderman&layout=compact&langs_count=7&theme=react&hide_border=true"/>  
-      </a>
-    </p>
+    
   
   
   ### 🥇 Habilidades nas seguintes tecnologias:
