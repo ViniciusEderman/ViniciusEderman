@@ -13,10 +13,8 @@ I enjoy designing scalable systems, optimizing performance, and applying softwar
   <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="NoSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="GCP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"><br><br>
-
-  <img align="center" alt="pic" height="100" style="border-radius:45px;" src="https://c.tenor.com/R8ApZziQLWwAAAAC/hachiman-oregairu.gif"><br>
-</div>
-<br>
+  <img align="center" alt="Hachiman" height="100" style="border-radius:45px;" src="https://media1.tenor.com/m/KxGJUSAHN34AAAAC/oops-anime.gif">
+</div><br>
 
 <div>
   <a href="https://www.linkedin.com/in/vinicius-magalh%C3%A3es-8713351a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
